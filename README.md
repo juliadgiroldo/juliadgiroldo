@@ -5,3 +5,4 @@ Olá! Eu sou a Júlia Giroldo
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliadgiroldo&show_icons=true&theme=onedark)
+
