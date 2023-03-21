@@ -1,6 +1,6 @@
-Olá! Eu sou a Júlia Giroldo
-- 📚 Atualmente sou estudante do terceiro período de Engenharia de Software e faço parte de um projeto no polo de inovação da univerdade        onde estudo
-- 💻 Minhas principais linguagens de programação são Python, JavaScript e CSS
+Olá! Eu sou a Julia Giroldo
+- 📚 Atualmente, sou acadêmica do terceiro período de Engenharia de Software e faço parte de um projeto no polo de inovação da universidade        onde estudo
+- 💻 Minhas principais linguagens de programação são Python, JavaScript e CSS. Também tenho conheceimento nos frameworks Django e Angular.
 - 📩 Contate-me pelo meu LinkedIn https://www.linkedin.com/in/julia-donadelli/
 
 
